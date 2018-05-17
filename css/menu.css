@@ -1,0 +1,85 @@
+header {
+    border: solid 1px lightgray;
+    background-color: rgba(32, 32, 32, 0.63);
+    padding-top: 15px;
+    padding-bottom: 15px; 
+    height: 120px;
+    top: 0px;
+    position: sticky;
+    z-index: 10000;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    width: 15%;
+    float: left;
+    height: 100%;
+}
+.logo img {
+    align-self: center;
+    width:100%;
+     height:100%;
+}
+.contenidosubmenu{
+    display: none;
+    z-index: 10000;
+    position: absolute;
+    top: 50px;
+    right: 15px;
+
+}
+.submenu:hover .contenidosubmenu{
+    display: block;
+    animation: prueba 2s;
+}
+@keyframes prueba{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+ul{
+    
+    top: 0px;
+    padding: 5px;
+    margin: 0;
+    text-align: right;
+
+}
+li{
+    
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    font-size: 20px;
+    
+}
+
+li > a {
+    position: relative;
+    color: rgb(204, 255, 0);
+    text-decoration: none;
+  }
+  
+  li > a:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color:rgb(204, 255, 0);
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+  }
+  li > a:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  } 

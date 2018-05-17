@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="videos.xsl"?>
+<cursos>
+	<curso num="1">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY"/>
+		<nombre>Curso: Guitarra </nombre>
+		<tiempo>50h </tiempo>
+		<precio>159€</precio>
+		<descripcion>
+			Si eres un apasionado de la guitarra, este es tu curso.
+			Conoce los estilos musicales que han surgido a lo largo de la historia.
+			Aprende a coger la guitarra y la posición de tus manos para formar los acordes
+			de las canciones más conocidas.
+		</descripcion>
+	</curso>
+	<curso num="2">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY"/>
+		<nombre>Curso: Percusion</nombre>
+		<tiempo>300h</tiempo>
+		<precio>400€</precio>
+		<descripcion>
+			Curso para descubrir el milenario arte de la percusión,su técnica,ritmos e instrumentos.
+			Descubre como tocar Djembé, congas, bongó, claves, cencerros, etc.
+			Un método claro, ameno y eficaz, para que cualquier persona, con o sin conocimientos previos,
+			pueda aprender a tocar distintos instrumentos de percusión.
+		</descripcion>
+	</curso>
+	<curso num="3">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY"/>
+		<nombre>Curso: Trompeta</nombre>
+		<tiempo>100h</tiempo>
+		<precio>175€</precio>
+		<descripcion>
+			El enfoque del curso de trompeta puede ser amplio y simple al mismo tiempo.
+			Es necesario darle importancia a los aspectos técnicos, con los cuales será posible desarrollar
+			una labor como instrumentista de viento-metal.
+			La enseñanza de la trompeta con ejercicios individualizados, métodos adecuados y material ameno,
+			ayudará al alumno a un fácil entendimiento del instrumento y su técnica.
+			Por otra parte, se trabajarán aspectos musicales, que pueden llegar a abarcar desde el repertorio más clásico,
+			hasta llegar al jazz, fusión latina, funk, etc. En general, un aprendizaje para cualquier tipo de música, estilo y
+			personalidad. Al principiante que desee tocar la trompeta se le dará un apoyo (en la misma clase) de solfeo
+			y armonía según lo requiera su avance. También contamos con asignaturas complementarias tales como lenguaje musical,
+			armonía y composición; para que los alumnos puedan complementar su enseñanza integral como músicos
+			y lograr una formación profesional.
+		</descripcion>
+	</curso>
+	<curso num="4">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0"/>
+		<nombre>Curso: Piano</nombre>
+		<tiempo>550h</tiempo>
+		<precio>1.050€</precio>
+		<descripcion>
+			Curso de piano desde nivel cero hasta superior. A partir de los 4 años y sin límite de edad.
+			La misión principal es dotarte de todos los recursos para poder disfrutar al máximo durante el aprendizaje
+			e interpretación con el piano.Estableceremos los mecanismos necesarios para que los procesos de aprendizaje
+			que se realicen en clase con el profesor puedan ser continuados en casa de forma autónoma,
+			creando un  buen hábito y técnica de estudio para consolidar la permanencia y continuidad y
+			si no dispones de un piano en casa puedes venir a estudiar a nuestras aulas, con previo aviso.
+		</descripcion>
+	</curso>
+	<curso num="5">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0"/>
+		<nombre>Curso: Violin</nombre>
+		<tiempo>20h</tiempo>
+		<precio>25€</precio>
+		<descripcion>
+			El violín es un instrumento musical de cuerda, de unos 60cm de largo formado por una caja de madera hueca.
+			En este curso de violín online vas a aprender a tocar desde cero de una manera fácil y rápida.
+			¿Quieres aprender a tocar el violín?
+			Dentro de mi trayectoria como profesor he encontrado mucha gente que le gustaría aprender a tocar algun
+			instrumento, sobre todo violín; cualquier persona que se tome este curso de manera seria y responsable,
+			podrá estar tocándolo en 2 o 3 meses como máximo.
+		</descripcion>
+	</curso>
+	<curso num="6">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0"/>
+		<nombre>Curso: Saxofon</nombre>
+		<tiempo>70h</tiempo>
+		<precio>120€</precio>
+		<descripcion>
+			El saxofón, forma parte de los instrumentos de la familia viento madera,
+			a pesar de que su apariencia sea de metal. Adolph Sax, en el intento de crear un clarinete
+			con la potencia de un instrumento de la familia de viento metal, inventó el Saxofón.
+			Podrás escucharlo tanto en orquestas sinfónicas como en orquestas de jazz.
+			Su timbre penetrante y dulce al mismo tiempo, enamora.Durante las clases, el profesor te enseñará
+			los mecanismos necesarios para que después en casa puedas practicar de una forma autónoma,
+			además de ayudarte a mantener la motivación para adquirir un hábito de estudio diario,
+			siempre que lo desees podrás venir a estudiar en nuestras aulas, con previo aviso.
+			Puedes seguir la programación de nuestro proyecto curricular educativo o bien un programa libre,
+			siempre teniendo en cuenta tu punto de partida y tu formación musical.
+			A partir de los 8 años y sin límite de edad.
+		</descripcion>
+	</curso>
+	<curso num="7">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0"/>
+		<nombre>Curso: Bajo</nombre>
+		<tiempo>140h</tiempo>
+		<precio>120€</precio>
+		<descripcion>
+			Si alguna vez has querido tocar el bajo en una banda, o si ya lo haces pero te faltan conocimientos y recursos, este curso es para ti.
+			Desarrolla tu oído de bajista, comprende la función del bajo y aprende aspectos técnicos y tecnológicos,
+			conceptos básicos sobre diferentes estilos y sobre la notación para el bajo. Todo con el fin de poder concebir
+			y construir líneas de bajo efectivas y musicales.
+		</descripcion>
+	</curso>
+	<curso num="8">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY"/>
+		<nombre>Curso: Tecnico en Sonido</nombre>
+		<tiempo>2 Años</tiempo>
+		<precio>6.250€</precio>
+		<descripcion>
+			consiste en ciclo formativo profesional de dos años de duración propuesto por Microfusa.
+			Al concluir este ciclo es posible finalizar un grado universitario (BA Hons o BSc Hons)* en Inglaterra,
+			accediendo directamente al tercer curso en Solent Southampton University.La escuela dispone de las mejores
+			instalaciones para realizar este curso y de un equipo docente actualizado tecnológica y pedagógicamente.
+			El curso ofrece una amplia y profunda visión necesaria para llegar a ser un profesional del Sonido
+			en ámbitos como; el estudio de grabación y la sonorización de espectáculos en vivo,
+			la sonorización en cine y televisión o cualquier producción en Internet y realidad virtual.También
+			se trabaja en profundidad los principios del lenguaje y la composición musical,
+			la historia de la producción musical y de la música. Entre las diversas asignaturas
+			cabe destacar los amplios conceptos relacionados con la industria de la música, contratos,
+			promoción, derechos, etc. Otro aspecto importante es la incorporación de clases de inglés
+			con profesor nativo y productor musical, las cuales ayudan a preparar posibles exámenes de acceso universitario y ampliar el lenguaje técnico.
+			Nuestro Diploma dispone, además, de  los cursos para obtener la certificación oficial
+			ofrecida por fabricantes; Apple y Avid,
+			Incluye los libros y tasas de examen correspondientes a Logic 101 y Protools 101,
+			110 (nivel usuario),  201, 210M y 210P (operador certificado en Música y Post-producción)
+		</descripcion>
+	</curso>
+	<curso num="9">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0"/>
+		<nombre>Curso: Master Produccion Musical</nombre>
+		<tiempo>210h</tiempo>
+		<precio>4.700€</precio>
+		<descripcion>
+			El productor es el máximo responsable del complejo proceso que se esconde tras la grabación de un disco, y es la persona en la que recae la toma de decisiones, ya sean de índole artístico o técnico. Por esta razón, es imprescindible que el productor tenga un conocimiento exhaustivo del mundo musical y de los aspectos tecnológicos relacionados con su trabajo.
+			En el pasado de forma habitual y en el presente de forma ocasional, el productor también actúa como puente entre el artista y la compañía discográfica durante la realización de un disco, y ejerce asimismo el papel de nexo entre el público y el artista a lo largo de su carrera musical. Este aspecto obliga al productor a conocer todas las peculiaridades del mundo musical, ya que su éxito se medirá en función del nivel de ventas que obtengan los artistas que produce.
+			En la actualidad encontramos un cambio radical en la manera de entender el consumo, la distribución y la grabación de la música, cambiando el panorama y la esencia de la producción musical. El modelo que se impone es el modelo de la Auto-producción, en donde la iniciativa de llevar a cabo un proyecto musical pasa de las compañías discográficas al propio artista. Este debe de encargarse de la grabación, la distribución y promoción del proyecto, así como de la gestión de todo el proceso. Dadas las limitaciones de conocimiento y experiencia de los artistas en este campo, es el productor musical formado en la auto-producción el que desarrolla este servicio integral, cubriendo las carencias legítimas en estos campos de los artistas.
+			En el modelo de auto-producción se refuerza la importancia del productor musical, pasando de estar al servicio de las compañías al servicio del artista.
+			Las facetas fundamentales de la auto-producción son la fijación del perfil artístico del proyecto, la optimización de los recursos técnicos y humanos en la grabación, mezcla y masterización, la gestión de los derechos y registro, la distribución en la red de forma óptima y estratégica, y la creación y monitorización de los contenidos de comunicación para su divulgación y promoción.
+		</descripcion>
+	</curso>
+	<curso num="10">
+		<video ruta="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0"/>
+		<nombre>Curso: Musicoterapia</nombre>
+		<tiempo>220h</tiempo>
+		<precio>190€</precio>
+		<descripcion>
+			Descubre cómo la música nos ayuda a incrementar nuestro bienestar y a prevenir o tratar algunas enfermedades con este curso online de Técnico en Musicoterapia.
+			Sin duda, la música ayuda a mejorar nuestro estado de ánimo. Cuando nos sentimos decaídos y escuchamos nuestra canción preferida, experimentamos cómo poco a poco la música nos ayuda a sentirnos mejor. También la utilizamos como medio de relajación, desconexión o para disminuir la ansiedad y el estrés. La música es la terapia idónea para fortalecer nuestra salud. De ahí que la música se utilice como terapia para prevenir y combatir determinadas enfermedades. Tiene efectos tan positivos y beneficiosos en nuestra salud que se utiliza como remedio alternativo al tratamiento médico; incluso en muchas ocasiones genera en nosotros una sensación de relajación y de disminución del dolor que el medicamento no siempre consigue.
+			Con este curso online de Técnico en Musicoterapia aprenderás cómo la música puede mejorar nuestra salud y bienestar. Conocerás el funcionamiento de nuestro sistema auditivo y la percepción del sonido. Descubrirás la aplicación de la música como tratamiento de determinadas enfermedades, ya sean físicas o mentales, tales como la esquizofrenia o depresión; o como remedio para aliviar el dolor físico.
+			Además, te enseñarán que la música es un recurso más para el aprendizaje y desarrollo de los más pequeños. Sirve para fomentar valores esenciales en su educación y es un elemento motivador y de refuerzo a sus conocimientos. Pero esto no es todo, ya que también la música ayuda en su proceso madurativo y como tratamiento para trastornos del habla, de desarrollo, de atención, hiperactividad o autismo.
+		</descripcion>
+	</curso>
+</cursos>

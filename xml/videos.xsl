@@ -7,6 +7,9 @@
                 <link href="https://fonts.googleapis.com/css?family=Do+Hyeon" rel="stylesheet"/>
                 <link rel="stylesheet" href="../css/menu.css"/>
                 <style>
+                    * {
+                        box-sizing: border-box;
+                    }
                     body{
                         background-color: black;
                     }

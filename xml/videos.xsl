@@ -12,7 +12,7 @@
                     }
                     body{
                         background-color: black;
-                        margin:0px;
+                        margin:10px 0px 0px 0px;
                     }
                     div.videos{
                         background-color: rgba(32, 32, 32,0.63);

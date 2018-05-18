@@ -20,6 +20,7 @@ body{
     background-image: url("../img/background.jpg");
     background-size: auto;
     background-position: center;
+    filter: contrast(125%);
 
 }
 .separador{

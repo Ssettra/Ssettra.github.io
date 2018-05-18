@@ -4,11 +4,12 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link href="https://fonts.googleapis.com/css?family=Do+Hyeon" rel="stylesheet"/>
+                <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet"/>
                 <link rel="stylesheet" href="../css/menu.css"/>
                 <style>
                     * {
                         box-sizing: border-box;
+                        font-family: 'Kaushan Script', cursive;
                     }
                     body{
                         background-color: black;

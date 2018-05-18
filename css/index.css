@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: 'Kaushan Script', cursive;
 }
 body{
     margin: 0px;
@@ -61,12 +62,10 @@ body{
 }
 h1{
     font-size: 72px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     color: aqua;
     margin: 0px;
 }
 h2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(204, 255, 0);
 }
 .contP1{

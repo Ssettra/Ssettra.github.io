@@ -17,14 +17,15 @@ body{
 
 }
 .separador{
-    height: 370px;
+    height: 390px;
     width: 100%;
-    background-image: url(../img/banner.jpg);
-    background-repeat: no-repeat;
+    background-image: url("../img/maxresdefault.jpg");
     background-size: cover;
+    background-position: center;
     position: relative;
     right: 0%;
     animation: animacion 2s;
+    filter: brightness(80%);
 }
 @keyframes animacion{
     0%{

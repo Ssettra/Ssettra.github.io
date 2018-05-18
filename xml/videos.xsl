@@ -65,15 +65,15 @@
                 </header>
                 <xsl:for-each select="cursos/curso">
                     <div class="videos">
-                    <iframe width="100%" height="250" frameborder="0">
-                    <xsl:attribute name="src">
-                            <xsl:value-of select="video/@ruta"/>
-                        </xsl:attribute>
-                    </iframe>
-                        <xsl:value-of select="nombre"/>
-                        <p>
-                            <xsl:value-of select="descripcion"/>
-                        </p>
+                        <iframe width="100%" height="250" frameborder="0">
+                        <xsl:attribute name="src">
+                                <xsl:value-of select="video/@ruta"/>
+                            </xsl:attribute>
+                        </iframe>
+                            <xsl:value-of select="nombre"/>
+                            <p>
+                                <xsl:value-of select="descripcion"/>
+                            </p>
                     </div>
 
 

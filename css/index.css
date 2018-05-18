@@ -22,10 +22,9 @@ body{
     background-position: center;
 
 }
-.separador{
+.separador img{
     height: 390px;
     width: 100%;
-    background-image: url("../img/maxresdefault.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -42,6 +41,9 @@ body{
         opacity: 1;
     }
 
+}
+img#note_keys{
+    filter: grayscale(100%);
 }
 .contenedor{
     border: 3px solid #ccc;

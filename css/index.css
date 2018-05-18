@@ -5,6 +5,9 @@
 body{
     margin: 0px;
     background-color: black;
+    /*background-image: url("../img/background3.jpg");
+    background-size: auto;
+    background-position: center;*/
  
 }
 
@@ -12,9 +15,11 @@ body{
 
 .main{
     padding: 10px 0px 0px 0px;
-   /* background-image: url("../img/background.jpg");*/
     width: 100%;
     height: auto;
+    background-image: url("../img/background.jpg");
+    background-size: auto;
+    background-position: center;
 
 }
 .separador{
@@ -41,7 +46,7 @@ body{
 .contenedor{
     border: 3px solid #ccc;
     border-radius: 15px;
-    background-color: rgba(17, 16, 16, 0.63);
+    background-color: rgba(17, 16, 16, 0.83);
     position: relative;
     width: 59%;
     min-height: 575px;
